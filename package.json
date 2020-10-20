@@ -1,0 +1,18 @@
+{
+  "name": "visualize-data-with-a-scatterplot-graph",
+  "version": "1.0.0",
+  "description": "Visualizing data in a scatterplot graph using D3js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Bryan Wong",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "d3": "^6.2.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
